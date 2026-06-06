@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Deekshith Shettigar, a Computer Science and Engineering graduate from St. Joseph Engineering College, Mangaluru with a CGPA of 8.61 🎓<br>💡 I am a passionate Full-Stack Developer with hands-on experience in building responsive, secure, and user-friendly web applications that solve real-world problems 🌍<br>🚀 I love building projects that make a difference. I built LockVerse 🔐, a full-stack password manager with AES-256 encryption and zero plain-text storage, and a Lodge Management System 🏨 with online booking, Razorpay payments, and automated GST billing.<br>🛠️ I am skilled in React.js, Node.js, Express.js, MongoDB, MySQL, PHP, JavaScript, Tailwind CSS and follow a security-first approach 🔒 in everything I build — from CSRF protection and rate limiting to bcrypt hashing and SQL transaction locks.<br>🌱 I am currently seeking opportunities as a Full Stack Developer or Software Engineer where I can contribute, grow, and keep solving meaningful problems through code 💻<br><br>📫 deekshith3838@gmail.com<br>🔗 linkedin.com/in/deekshith38<br>⭐ github.com/deekshith-shettigar
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deekshith38) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekshith3838@gmail.com)
 
@@ -14,4 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deekshith-shettigar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=deekshith-shettigar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=deekshith-shettigar&label=Profile%20Views&color=blue&style=flat)](https://github.com/deekshith-shettigar)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
